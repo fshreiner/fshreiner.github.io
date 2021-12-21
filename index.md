@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
- 
+
+> Associado ao Mundo da Tecnologia e suas vertentes
+>
+> Bacharel em Sistemas de Informação
+> 
+> Pós-Graduando em Engenharia de Redes de Computadores
+> 
+> Aspirante a Desenvolvedor Web e nas horas vagas Músico por paixão
 
 ## Projetos
 
