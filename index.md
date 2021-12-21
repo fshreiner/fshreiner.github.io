@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## [Estudos]
-## [Projetos]
+## Estudos
+## Projetos
 ## [Leituras](./Leituras/Python/Curso_Intensivo_Python)
-## [Certificações]
-## [Currículo]
+## Certificações
+## Currículo
