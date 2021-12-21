@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*   [Estudos](./)
+*   ##[Estudos](./)
 ## *[Projetos](./)
 ## *[Leituras](./Leituras/Python/Curso_Intensivo_Python)
 ## *[Certificações](./)
