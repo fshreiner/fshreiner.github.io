@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Estudos
-### Projetos
-### Certificações
-### Currículo
+## Estudos
+## Projetos
+## Certificações
+## Currículo
